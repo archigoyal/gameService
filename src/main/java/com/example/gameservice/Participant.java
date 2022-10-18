@@ -1,5 +1,6 @@
 package com.example.gameservice;
 
+
 public class Participant implements Comparable<Participant> {
 
     private String name;
@@ -13,7 +14,6 @@ public class Participant implements Comparable<Participant> {
     }
 
     public Participant() {
-
     }
 
     public int getId(){

@@ -13,24 +13,7 @@ import java.util.SortedSet;
 @EnableAutoConfiguration(exclude={MongoAutoConfiguration.class})
 public class GameServiceApplication {
 	public static void main(String[] args) throws IOException {
-
 		SpringApplication.run(GameServiceApplication.class, args);
-		GamingService();
-		printResults();
-	}
-
-	public static void GamingService() throws IOException {
-		System.out.println("Hello gamers!");
-		Stream.readStream("src/main/resources/sample1.txt");
-        Stream.readStream("src/main/resources/sample2.txt");
-
-	}
-	public static void printResults(){
-		System.out.println("-----RESULTS-----------------");
-		System.out.println("ID"+ "\t" +"Score"+"\t" +"Name");
-
-		for(Participant p : StoreRecord.getTopper())
-			System.out.println(p.getId()+ "\t" +p.getScore()+"\t" +p.getName());
 	}
 
 
