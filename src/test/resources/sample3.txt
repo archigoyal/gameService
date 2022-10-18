@@ -1,0 +1,11 @@
+apple 1 3000
+banana 2 4000
+coconut 3 5000
+dragon 4 6000
+eggplant 5 7000
+figs 6 8000
+guava 7 9000
+honey 8 7500
+icecream 9 8500
+guava 7 6500
+guava 7 5500

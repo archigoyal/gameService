@@ -1,0 +1,4 @@
+Archi 1 20
+Archi 1 40
+Archi 1 200
+Gursimran 2 -300

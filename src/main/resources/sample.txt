@@ -1,0 +1,13 @@
+Archi 1 20
+Archi 1 -20
+Gursimran 2 300
+Astha 3 3000
+Akshat 4 -10
+Piyush 5 7000
+Arunima 6 1000
+Akshat 4 1000
+Anju 7 -260
+Astha 3 -10
+Archi 1 4000
+Piyush 5 7000
+apple 10 3000
